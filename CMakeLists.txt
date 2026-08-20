@@ -55,7 +55,7 @@ target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     Core/Src/pid.c
     Core/Src/track.c
     Core/Src/control.c
-
+    Core/Src/sortware_I2C.c
 
 
 )
